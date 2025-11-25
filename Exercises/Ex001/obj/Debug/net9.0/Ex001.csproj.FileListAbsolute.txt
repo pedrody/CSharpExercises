@@ -1,0 +1,14 @@
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\bin\Debug\net9.0\Ex001.exe
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\bin\Debug\net9.0\Ex001.deps.json
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\bin\Debug\net9.0\Ex001.runtimeconfig.json
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\bin\Debug\net9.0\Ex001.dll
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\bin\Debug\net9.0\Ex001.pdb
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\obj\Debug\net9.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\obj\Debug\net9.0\Ex001.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\obj\Debug\net9.0\Ex001.AssemblyInfo.cs
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\obj\Debug\net9.0\Ex001.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\obj\Debug\net9.0\Ex001.dll
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\obj\Debug\net9.0\refint\Ex001.dll
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\obj\Debug\net9.0\Ex001.pdb
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\obj\Debug\net9.0\Ex001.genruntimeconfig.cache
+C:\Users\pedro\Documents\GitHub\CSharpExercises\Ex001\obj\Debug\net9.0\ref\Ex001.dll

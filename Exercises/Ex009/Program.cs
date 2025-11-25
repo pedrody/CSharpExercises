@@ -1,0 +1,27 @@
+﻿// https://github.com/acenelio/nivelamento-csharp/blob/master/uri1046/uri1046/Program.cs
+using System;
+
+namespace Ex009
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] valores = Console.ReadLine().Split(' ');
+            int horaInicial = int.Parse(valores[0]);
+            int horaFinal = int.Parse(valores[1]);
+            int duracao;
+
+            if (horaInicial < horaFinal)
+            {
+                duracao = 24 - horaInicial + horaFinal;
+            }
+            else
+            {
+                duracao = 24 - horaInicial + horaFinal;
+            }
+
+            Console.WriteLine($"O JOGO DUROU {duracao} HORA(S)");
+        }
+    }
+}
